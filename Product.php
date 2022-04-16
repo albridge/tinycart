@@ -45,3 +45,4 @@ class Product{
 $product1 = new Product(1,'jam',100,10);
 $product2 = new Product(2,'bread',50,12);
 $product3 = new Product(3,'sweet suya',20,3);
+$product4 = new Product(4,'fresh cat fish pepper soup',20,3);
